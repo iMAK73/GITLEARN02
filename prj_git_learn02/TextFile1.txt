@@ -1,1 +1,3 @@
-﻿DEV - ветка разработки
+Ветка DEV - ветка разработки, делится на ветки SPRINT**
+MERGE PLAN:  merge to master (commit name = build id + release id)
+
