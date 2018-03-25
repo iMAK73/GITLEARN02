@@ -1,3 +1,6 @@
-﻿DEV - ветка разработки
+﻿FEATURE01 - ветка разработки для (Server)
+MERGE PLAN:  merge to subbranch SPRINT01 of branch DEV
+
+DEV - ветка разработки
 состоит из:
-SPRINT01- ветка разработки спринта 1
+SPRINT01- ветка разработки спринта 1 (делится на ветки FEATURE**)
